@@ -8,7 +8,7 @@
 
 -------------------
 
-*Marketing Executive | Data Analytics | AI & Machine Learning*
+*Senior Marketing Executive | Data Analytics | AI & Machine Learning*
 
 </div>
 
@@ -17,6 +17,14 @@
 I'm a dedicated self-starter and team player with a passion for technology, bringing innovative solutions from concept to reality. With over 13 years of experience as a marketing executive, I've led high-impact campaigns and crafted go-to-market strategies that set new industry standards. My expertise lies in leveraging digital tools and data analytics to drive strategic decisions.
 
 I excel at managing cross-functional teams—including Brand, Creative, Product, Decision Science, Engineering, and Research—to execute complex initiatives that boost brand visibility and maximize ROI. Skilled in using audience insights to refine message positioning, I ensure targeted communications that align with customer needs and market trends. As a leader committed to excellence, I oversee every project phase with precision, from initial analysis to collaborative execution, delivering impactful results.
+
+## 🎯 Career Highlights
+
+- Led strategic marketing initiatives for global brands including Nike and Facebook
+- Developed and executed data-driven marketing strategies resulting in significant ROI improvements
+- Successfully managed cross-functional teams across multiple continents
+- Pioneered the implementation of AI and ML solutions in marketing analytics
+- Expertise in both B2B and B2C marketing strategies
 
 ## 🛠️ Skills & Expertise
 
@@ -29,20 +37,27 @@ I excel at managing cross-functional teams—including Brand, Creative, Product,
 | • Machine Learning & AI | • Go-to-Market Strategy |
 | • Statistical Analysis | • Brand Development |
 | • Digital Marketing Tools | • Product Marketing |
-| | • Market Research & Analysis |
+| • Marketing Analytics | • Market Research & Analysis |
 
 </div>
 
-## 📚 Certifications
+## 📚 Certifications & Education
 <div align="center">
 
 `Google Advanced Data Analytics Specialization` • `Multi AI Agent Systems` • `AI For Everyone` • `Google Data Analytics` • `Python Programming`
 
 </div>
 
+## 💼 Professional Experience
+
+- **Intuit** - Senior Marketing Executive
+  - Leading strategic marketing initiatives
+  - Implementing data-driven decision making
+  - Managing global marketing campaigns
+
 ## 📂 Portfolio Contents
 
-This repository contains a collection of my professional work and achievements:
+This repository showcases selected work and achievements:
 
 ```
 📁 Professional References
@@ -54,6 +69,18 @@ This repository contains a collection of my professional work and achievements:
 📁 Academic Work
    └── PDM program assignments and achievements
 ```
+
+## 🌟 Featured Projects
+
+1. **Volkswagen Strategy Analysis**
+   - Comprehensive market analysis
+   - Strategic recommendations
+   - Implementation roadmap
+
+2. **Airbnb Market Study**
+   - Data-driven insights
+   - Market opportunity assessment
+   - Growth strategy recommendations
 
 ## 📫 Get In Touch
 
